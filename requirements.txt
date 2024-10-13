@@ -1,0 +1,16 @@
+python-dotenv
+torch
+deepface
+transformers
+Pillow
+scipy
+tf-keras
+mtcnn
+opencv-python
+numpy
+llama-index-llms-openai
+llama-index-multi-modal-llms-openai
+llama-index-readers-file
+llama-index-core
+nest-asyncio
+pydantic
